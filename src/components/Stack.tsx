@@ -172,7 +172,7 @@ export default function Stack() {
 
                     {/* Herramientas */}
                     <section className="text-white flex justify-center items-center flex-col gap-5 bg-neutral-900 py-5 rounded-md shadow-neutral-500 shadow-xl/50 transition-all duration-300 hover:-translate-y-3">
-                        <h3 className="text-4xl font-semibold mb-5">Bases de datos & ORMs</h3>
+                        <h3 className="text-4xl font-semibold mb-5">Herraminetas</h3>
                         <div className="flex justify-center items-center gap-6">
                             <div className="flex justify-center items-center flex-col gap-3 w-30 h-20 text-lg">
 
